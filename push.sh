@@ -4,4 +4,4 @@ git add .
 
 git commit -m "anything"
 
-git push -U origin main
+git push -u origin main
